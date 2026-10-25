@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**namekdev-ops/namekdev-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola, soy Daniel Felizzi
+ 
+Estudiante de programación en Venezuela, enfocado en Python y automatización, con interés en ciberseguridad.
+ 
+## Actualmente aprendiendo
+- Python
+- Git y GitHub
+- Fundamentos de ciberseguridad
+ 
+## Proyectos
+- [Auditor de contraseñas](https://github.com/namekdev-ops/auditor-passwords): evalúa la fortaleza de una contraseña y da recomendaciones.
+ 
+## Objetivos
+- Conseguir mi primer trabajo como desarrollador junior o freelance.
+- Especializarme en seguridad.
+ 
+## Contacto
+- GitHub: [@namekdev-ops](https://github.com/namekdev-ops)
+- Instagram: [@felizzi.py](https://www.instagram.com/felizzi.py)
+- Correo: [felizzimc@gmail.com]
