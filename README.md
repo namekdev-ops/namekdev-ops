@@ -17,4 +17,4 @@ Estudiante de programación en Venezuela, enfocado en Python y automatización, 
 ## Contacto
 - GitHub: [@namekdev-ops](https://github.com/namekdev-ops)
 - Instagram: [@felizzi.py](https://www.instagram.com/felizzi.py)
-- Correo: [felizzimc@gmail.com]
+- Correo: felizzimc@gmail.com
